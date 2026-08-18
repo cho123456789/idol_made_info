@@ -25,7 +25,7 @@ export default function Home() {
     </section>
     <section id="install" className="install" aria-labelledby="install-title">
       <div><p className="eyebrow">DOWNLOAD</p><h2 id="install-title">지금, 내 폰을<br />최애 공간으로 꾸며봐요.</h2><p>다운로드 버튼을 누르면 APK 파일을 받을 수 있어요.<br />설치 중 Android의 앱 설치 허용 안내가 표시될 수 있습니다.</p></div>
-      <div className="download-card"><span className="android-mark">⌁</span><strong>RESCENE<br />FAN APP</strong><a className="button primary wide" href="REPLACE_WITH_APK_URL">APK 다운로드 <b>↓</b></a><small>Android 8.0 이상 권장</small></div>
+      <div className="download-card"><span className="android-mark">⌁</span><strong>RESCENE<br />FAN APP</strong><a className="button primary wide" href="https://azujctjnnzvvlccubfmm.supabase.co/storage/v1/object/sign/resence/resence.apk?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lOTU3YTViZC1mYTJlLTQxNDgtOWE5My1kMDg2YWZiNGUwZjMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJyZXNlbmNlL3Jlc2VuY2UuYXBrIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzA1MTM2MiwiZXhwIjoxNzkyMjM1MzYyfQ.IrWetI97UBFvU_SPZMhM1Fu4R-n4SMtnmkycOTow7tI">APK 다운로드 <b>↓</b></a><small>Android 8.0 이상 권장</small></div>
     </section>
     <footer><p>본 앱은 비상업적 비공식 팬메이드 프로젝트입니다.</p><p>리센느 관련 이미지와 상표의 권리는 더뮤즈 엔터테이먼트 및 리센느 그룹 멤버들 한테 있습니다.</p></footer>
   </main>;
