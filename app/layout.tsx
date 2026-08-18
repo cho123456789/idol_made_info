@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./mobile-media.css";
 
 export const metadata: Metadata = {
   title: "RESCENE 팬메이드 앱 | 사진 위젯 & 배경화면",

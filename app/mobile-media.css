@@ -1,0 +1,17 @@
+/* Preserve the full animated screenshots on narrow screens. */
+@media (max-width: 760px) {
+  .phone-frame img {
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+
+  .feature-media {
+    height: auto;
+    min-height: 0;
+  }
+
+  .feature-media img {
+    height: auto;
+    object-fit: contain;
+  }
+}
